@@ -1,0 +1,5 @@
+Corn CBOT-4- Bearish: 21 Bullish: 0 Coeff: 0.0 
+Corn CBOT-3- Bearish: 21 Bullish: 0 Coeff: 0.0 
+Corn CBOT-2- Bearish: 21 Bullish: 0 Coeff: 0.0 
+CORN CBOT == Bearish: 21 Bullish: 0 Coeff: 0.0 
+
